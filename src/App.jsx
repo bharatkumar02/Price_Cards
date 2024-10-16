@@ -34,7 +34,7 @@ function App() {
               <li>2 Users Allowed</li>
               <li>Send up to 3 GB</li>
             </ul>
-            <button className="uppercase font-semibold bg-gradient-to-r from-indigo-300 to-indigo-500/90 text-gray-50 w-full py-2 rounded-md border border-transparent hover:border-indigo-500 hover:text-indigo-500/80 hover:from-gray-50  hover:to-gray-50  transition-all duration-500 ease-in-out xl:text-lg">
+            <button className="uppercase font-semibold bg-gradient-to-r from-indigo-300 to-indigo-500/90 text-gray-50 w-full py-2 rounded-md border border-transparent hover:border-indigo-500 hover:text-indigo-500/80 hover:from-gray-50  hover:to-gray-50 xl:text-lg">
               Learn More
             </button>
           </div>
@@ -64,7 +64,7 @@ function App() {
               <li>10 Users Allowed</li>
               <li>Send up to 20 GB</li>
             </ul>
-            <button className="uppercase font-semibold bg-gradient-to-r from-indigo-300 to-indigo-500/90 text-gray-50 w-full py-2 rounded-md border border-transparent hover:border-indigo-500 hover:text-indigo-500/80 hover:bg-gradient-to-b hover:from-gray-50 hover:to-gray-50   transition-all duration-300 ease-in-out xl:text-lg">
+            <button className="uppercase font-semibold bg-gradient-to-r from-indigo-300 to-indigo-500/90 text-gray-50 w-full py-2 rounded-md border border-transparent hover:border-indigo-500 hover:text-indigo-500/80 hover:bg-gradient-to-b hover:from-gray-50 hover:to-gray-50 xl:text-lg">
               Learn More
             </button>
           </div>
